@@ -1,0 +1,12 @@
+{
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "python.pythonPath": "/Users/tayza/dev/python_env/scraping",
+    "python.formatting.provider": "autopep8",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintEnabled": false
+}
